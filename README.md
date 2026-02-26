@@ -1,68 +1,57 @@
-# Hi, I'm Siddhant Deval 👋
-## Full Stack Developer & Engineer
-I am a **Full Stack Developer** with 4+ years of experience building modern, high-performance web applications. I specialize in transforming ideas into reliable, user-focused digital products through clean engineering and thoughtful design.
+<!-- You can paste this content into your GitHub profile README.md (in a repository named siddhantdeval/siddhantdeval) -->
+
+# Hi there, I'm Siddhant Deval 👋
+### Senior Full Stack Developer | React, Next.js, Node.js & PostgreSQL
+
+I'm a Full Stack Developer with 4+ years of experience building modern, high-performance web applications. With a background in Computer Science and hands-on experience across frontend and backend, I specialize in transforming ideas into scalable, user-centered digital products.
+
+- 🔭 I’m currently working as a **Frontend Developer at ijewel3D**, where I build immersive 3D visualization applications.
+- 🌱 I'm passionate about creating intuitive user experiences and writing clean, maintainable code.
+- 💬 Ask me about **React, Next.js, System Architecture, and turning complex ideas into polished apps**.
+- 📫 How to reach me: **[siddhantdeval15@gmail.com](mailto:siddhantdeval15@gmail.com)**
+- 📄 Check out my full experience on my [Portfolio Website](https://siddhantdeval.com/r/gh)
+
 ---
-## 🚀 About Me
-- 🎓 BSc in Computer Science.
-- 💻 Specialized in **React.js, Next.js, Node.js, and PostgreSQL**.
-- �️ Currently spearheading advanced web interfaces at **ijewel3D** using **WebGi SDK** for immersive 3D visualizations.
-- ⚡ Focus: Creating software that is efficient, maintainable, and purposeful.
+
+### 🛠️ My Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Cloud & Tools:**  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
-## 🛠️ Tech Stack & Skills
-### 🎨 Frontend
-- React.js & Hooks, Next.js (SSR/SSG), TypeScript
-- Redux Toolkit, Zustand, React Query
-- Tailwind CSS, Ant Design, NextUI
-- Component Architecture & Performance Optimization
-### ⚙️ Backend & Security
-- Node.js, Express.js, RESTful API Design
-- PostgreSQL, MongoDB, ORMs (Prisma / Sequelize)
-- Authentication (JWT / OAuth2 / MSAL / Azure AD)
-- Role-Based Access Control (RBAC) & OWASP Best Practices
-### ☁️ DevOps & Tools
-- Docker & Containerization
-- CI/CD Pipelines (GitHub Actions / Azure DevOps)
-- Cloud Hosting (AWS / Azure)
-- Git, Postman, Jest, Swagger/OpenAPI
+
+### 💼 Professional Experience
+* 👨‍💻 **Frontend Developer** @ ijewel3D (Mar 2025 - Present)
+* 👨‍💻 **Senior Software Engineer** @ Enbake (Aug 2023 - Mar 2025)
+* 👨‍💻 **Software Engineer** @ Enbake (Sep 2021 - Aug 2023)
+* 👨‍💻 **Full-Stack Developer** @ Freelance
+
 ---
-## 💼 Experience
-### **Senior Software Engineer** @ Enbake (Remote)
-*Aug 2023 — Mar 2025*
-- Led frontend and backend initiatives to build interactive and scalable web solutions using React.js and Node.js.
-- Integrated user analytics and feedback loops to guide product improvements.
-- Partnered with cross-functional teams to deliver secure, high-performing applications.
-### **Software Engineer** @ Enbake (New Delhi)
-*Sep 2021 — Aug 2023*
-- Developed and maintained dynamic web applications using React.js and Node.js.
-- Enhanced usability through analytics-driven features and consistent design patterns.
-- Collaborated in an agile environment to deliver mobile-responsive, user-centric products.
-### **Frontend Developer** @ ijewel3D (Remote)
-*Mar 2025 — Present*
-- Spearheading advanced web interfaces using Next.js and WebGi SDK for 3D visualizations.
-- Collaborating with UI/UX teams to craft seamless, performance-optimized experiences.
+
+### 🚀 Featured Projects
+* **[ijewel Design](https://ijewel.design)**: A 3D jewelry showcase platform focusing on performance and seamless real-time exploration using Next.js, NextUI, WebGi SDK.
+* **[ijewel Editor](https://playground.ijewel3d.com/)**: A robust 3D jewelry editor built to conceptualize models interactively with React and WebGi SDK.
+* **[Urbantasker](https://urbantasker.com)**: A comprehensive home-service platform marketplace handling live bids and tasks using Next.js, GraphQL, PostgreSQL, and AWS.
+* **[Jumby Bay Tracking System](https://jbxapp.jumbybayisland.com)**: A staff activity tracking platform with robust attendance functionality deployed on AWS.
+
 ---
-## � Featured Projects
-### **ijewel Design**
-A 3D jewelry showcase platform where users explore and personalize designs in real time.
-- **Tech Stack:** Next.js, NextUI, WebGi SDK, Tailwind CSS, Supabase
-- [Live Demo](https://ijewel.design)
-### **ijewel Editor**
-A modern 3D jewelry editor for creating, visualizing, and sharing models interactively.
-- **Tech Stack:** React.js, WebGi SDK, Tailwind CSS, Vite.js
-- [Live Demo](https://playground.ijewel3d.com/)
-### **Urbantasker**
-A home-service platform where users post jobs and receive bids from verified providers.
-- **Tech Stack:** Next.js, Stripe, GraphQL, PostgreSQL, Strapi, AWS (EC2, Route 53)
-- [Live Demo](https://urbantasker.com)
-### **Jumby Bay**
-A staff activity tracking system to monitor attendance, ferry boarding, and canteen usage.
-- **Tech Stack:** React.js, Node.js, PostgreSQL, AWS (RDS, S3, App Runner)
-- [Live Demo](https://jbxapp.jumbybayisland.com)
----
-## 📬 Let's Connect!
-- 🌐 **Portfolio:** [siddhantdeval.com](https://siddhantdeval.com/)
-- 💼 **LinkedIn:** [siddhantdeval](https://www.linkedin.com/in/siddhantdeval)
-- 🐦 **Twitter:** [@DevalSiddhant](https://twitter.com/DevalSiddhant)
-- 📧 **Email:** [siddhantdeval15@gmail.com](mailto:siddhantdeval15@gmail.com)
----
-✨ *For me, coding isn’t just about writing code — it’s about creating experiences that matter.*
+
+### 🔗 Let's Connect!
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://siddhantdeval.com/r/gh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantdeval)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DevalSiddhant)
