@@ -35,22 +35,6 @@ I'm a Full Stack Developer with 4+ years of experience building modern, high-per
 
 ---
 
-### 💼 Professional Experience
-* 👨‍💻 **Frontend Developer** @ ijewel3D (Mar 2025 - Present)
-* 👨‍💻 **Senior Software Engineer** @ Enbake (Aug 2023 - Mar 2025)
-* 👨‍💻 **Software Engineer** @ Enbake (Sep 2021 - Aug 2023)
-* 👨‍💻 **Full-Stack Developer** @ Freelance
-
----
-
-### 🚀 Featured Projects
-* **[ijewel Design](https://ijewel.design)**: A 3D jewelry showcase platform focusing on performance and seamless real-time exploration using Next.js, NextUI, WebGi SDK.
-* **[ijewel Editor](https://playground.ijewel3d.com/)**: A robust 3D jewelry editor built to conceptualize models interactively with React and WebGi SDK.
-* **[Urbantasker](https://urbantasker.com)**: A comprehensive home-service platform marketplace handling live bids and tasks using Next.js, GraphQL, PostgreSQL, and AWS.
-* **[Jumby Bay Tracking System](https://jbxapp.jumbybayisland.com)**: A staff activity tracking platform with robust attendance functionality deployed on AWS.
-
----
-
 ### 🔗 Let's Connect!
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://siddhantdeval.com/r/gh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantdeval)
