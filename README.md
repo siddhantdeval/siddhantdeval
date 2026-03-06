@@ -9,7 +9,7 @@ I'm a Full Stack Developer with 4+ years of experience building modern, high-per
 - 🌱 I'm passionate about creating intuitive user experiences and writing clean, maintainable code.
 - 💬 Ask me about **React, Next.js, System Architecture, and turning complex ideas into polished apps**.
 - 📫 How to reach me: **[siddhantdeval15@gmail.com](mailto:siddhantdeval15@gmail.com)**
-- 📄 Check out my full experience on my [Portfolio Website](https://siddhantdeval.com/r/gh)
+- 📄 Check out my full experience on my [Portfolio Website](https://siddhantdeval.com)
 
 ---
 
