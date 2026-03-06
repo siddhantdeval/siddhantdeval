@@ -36,6 +36,6 @@ I'm a Full Stack Developer with 4+ years of experience building modern, high-per
 ---
 
 ### 🔗 Let's Connect!
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://siddhantdeval.com/r/gh)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://siddhantdeval.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantdeval)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DevalSiddhant)
